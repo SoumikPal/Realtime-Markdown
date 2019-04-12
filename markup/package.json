@@ -1,0 +1,25 @@
+{
+  "name": "markup",
+  "version": "1.0.0",
+  "description": "Realtime Markup Viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SoumikPal/Realtime-Markdown.git"
+  },
+  "keywords": [
+    "markup"
+  ],
+  "author": "Soumik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoumikPal/Realtime-Markdown/issues"
+  },
+  "homepage": "https://github.com/SoumikPal/Realtime-Markdown#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
